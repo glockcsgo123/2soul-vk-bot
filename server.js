@@ -9,7 +9,7 @@ app.use(require('cors')());
 // ВСТАВЬТЕ СВОИ ДАННЫЕ:
 // ============================================
 const VK_TOKEN = 'vk1.a.4f_lZe6CLpsgGbXxEQLhzncgKAT1nsTIWXyMcRijj0onyGIn9V-delylGQG10xWT2F7YUiN3v1FjqqDi3p4dgJaTHHV6x7qwKLVemCbBH9AvtLz0510-b8tMzbShJ4vb8gLoOaTh2hL24kyolJkB3-Q3UunTMIIkdo9GLLqTZ3EI_hobP8ideDQsAWQyGL1q-e0EjP9hcO_hbwqURY44JA';
-const ADMIN_VK_ID = '235947907';
+const ADMIN_VK_ID = '514254079';
 // ============================================
 
 app.get('/', (req, res) => {
